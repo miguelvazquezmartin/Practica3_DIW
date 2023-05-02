@@ -1,0 +1,57 @@
+#buscar{
+    background-color: #8b0000;
+    border: none;
+}
+.cabecera {
+    background-image: url("../img/contacto.jpg") ;
+    background-size: cover;
+    background-position: 0 70%;
+    height: 20em;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#inicio{
+    font-family: Oswald;
+}
+.footer{
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(110,110,110,1) 51%, rgba(255,255,255,1) 100%);
+}
+#titulo{
+    color: darkred;
+}
+i:hover{
+    color:#8b0000;
+}
+#buscar:hover{
+    background-color: aliceblue;
+}
+.text{
+    color:white;
+}
+.text:hover{
+    color:#8b0000;
+}
+.termine h2{
+    color:#8b0000;
+    max-width: 700px;
+    margin-left: 25%;
+}
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+
+.formulario{
+    color:#8b0000;
+}
+.formulario legend{
+    color: #8b0000;
+    font-family: Oswald;
+}

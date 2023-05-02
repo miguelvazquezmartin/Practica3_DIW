@@ -1,0 +1,49 @@
+#inicio{
+    font-family: Oswald;
+    position: fixed;
+}
+#buscar{
+    background-color: #8b0000;
+    border: none;
+}
+.footer{
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(110,110,110,1) 51%, rgba(255,255,255,1) 100%);
+}
+/*comienza css cabecera*/
+
+.cabecera {
+   background-image: url("../img/barrio2.jpg");
+   background-size: cover;
+   text-shadow: black 0.1em 0.1em 0.2em;
+   font-family: Arial, Helvetica, sans-serif;
+}
+#titulo{
+    color: darkred;
+    font-family: Oswald;
+}
+i:hover{
+    color:#8b0000;
+}
+#buscar:hover{
+    background-color: aliceblue;
+}
+.text{
+    color:white;
+}
+.text:hover{
+    color:#8b0000;
+}
+.servicios h2{
+    font-family: Oswald;
+    color: #8b0000;
+}
+.servicios b{
+    color: #8b0000;
+}
+.servicios p{
+    font-family: Inter;
+}
+.titulo p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

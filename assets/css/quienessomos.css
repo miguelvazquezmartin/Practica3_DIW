@@ -1,0 +1,90 @@
+#inicio{
+    font-family: Oswald;
+    position: fixed;
+}
+#quienesSomos h1{
+    font-family: Oswald;
+    color: #8b0000;
+}
+#quienesSomos .descripcion{
+    font-family: Oswald;
+    color: #444444;
+    max-width: 600px;
+    padding-left: 2rem;
+}
+#buscar{
+    background-color: #8b0000;
+    border: none;
+}
+.cabecera {
+    background-image: url("../img/quienessomos.jpg") ;
+    background-size: cover;
+    background-position: 0 70%;
+    height: 20em;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer{
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(110,110,110,1) 51%, rgba(255,255,255,1) 100%);
+}
+#titulo{
+    color: darkred;
+}
+i:hover{
+    color:#8b0000;
+}
+#buscar:hover{
+    background-color: aliceblue;
+}
+.text{
+    color:white;
+}
+#texto p{
+    max-width: 750px;
+}
+.text:hover{
+    color:#8b0000;
+}
+#quienesSomos h5{
+    max-width: 750px;
+    text-align: center;
+    padding-top: 5em;
+    padding-bottom: 4em;
+    color: #8b0000;
+    
+}
+#quienesSomos img{
+    padding: 10%;
+    width: 100%;
+}
+@media only screen and (max-width: 575px) {
+    #quienesSomos h5{
+        max-width: 550px;
+        text-align: center;
+        padding-top: 2em;
+        padding-bottom: 2em;
+        color: #8b0000;
+        margin-left: 0%;
+    }
+
+    .termine h2{
+        color:#8b0000;
+        max-width: 700px;
+        margin-left: 0%;
+    }
+}
+.termine h2{
+    color:#8b0000;
+    max-width: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.titulo p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#quienesSomos h2{
+    font-family: Oswald;
+}
+#quienesSomos p{
+   font-family: Inter;
+}

@@ -1,0 +1,52 @@
+#buscar{
+    background-color: #8b0000;
+    border: none;
+}
+#blog-texto{
+    max-width: 800px;
+}
+#inicio{
+    font-family: Oswald;
+}
+.cabecera {
+    background-image: url("../img/blog.jpg") ;
+    background-size: cover;
+    background-position: 0 70%;
+    height: 20em;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer{
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(110,110,110,1) 51%, rgba(255,255,255,1) 100%);
+}
+#titulo{
+    color: darkred;
+}
+i:hover{
+    color:#8b0000;
+}
+#buscar:hover{
+    background-color: aliceblue;
+}
+.text{
+    color:white;
+}
+.text:hover{
+    color:#8b0000;
+}
+.termine h2{
+    color:#8b0000;
+    max-width: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#custom-cards a{
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+#custom-cards h2{
+   color: #8b0000;
+   font-family: Oswald;
+}
+#custom-cards h3{
+    font-family: Oswald;
+}

@@ -1,0 +1,109 @@
+#inicio{
+    position: fixed;
+}
+#menu-list:hover{
+    color:darkred;
+}
+#inicio{
+    font-family: Oswald;
+}
+#myCarousel i{
+    color:darkred;
+}
+#myCarousel h4{
+    color:darkred;
+}
+#myCarousel h1{
+    color:darkred;
+    font-family: Oswald;
+}
+#buscar{
+    background-color: darkred;
+    border: none;
+}
+#myCarousel h6{
+    font-family: Inter;
+}
+#busqueda:hover{
+    background-color:hsl(0, 100%, 27%);
+    color:#ffffff;
+}
+#busqueda h5{
+  font-family: Oswald;
+}
+
+.titulo #color{
+    color:darkred;
+}
+.titulo h2 h3{   
+     font-family: Oswald;
+}
+.titulo p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#comprar .card{
+    max-width: 25rem;
+}
+#comprar i{
+    color:darkred;
+}
+#comprar h4{
+    color:darkred;
+}
+#comprar h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*hover de la malla de compra de casa*/
+.sobrecapa {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: darkred;
+}
+#malla:hover .sobrecapa {
+  opacity: 1;
+}
+
+.texto {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+/*termina malla compra*/
+.titulo i{
+    color:darkred;
+}
+
+.footer{
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(110,110,110,1) 51%, rgba(255,255,255,1) 100%);
+}
+.text{
+    color:white;
+}
+.text:hover{
+    color:#8b0000;
+}
+#buscar:hover{
+    background-color: aliceblue;
+}
+#venta{
+    font-family: Oswald;
+}
+#malla i:hover{
+    color: orangered;
+    transform: translateY(-20%);
+    transition: cubic-bezier(0,.64,1,.46);
+}
